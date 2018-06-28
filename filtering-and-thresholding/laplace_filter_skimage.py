@@ -30,7 +30,7 @@ def laplace_skimage(img):
     return laplace_edges
 
 """
-Get name images to preprocessing
+Get name images to preprocessing 
 --------------------------------
 """
 input_path = 'data/train/'
