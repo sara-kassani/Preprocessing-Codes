@@ -36,7 +36,7 @@ Get name images to preprocessing
 input_path = 'data/train/'
 input_extension = 'jpg'
 
-inputs_files = sorted(util.dirhandler.get_file_name_dir(input_path, input_extension)) 
+inputs_files = sorted(util.dirhandler.get_file_name_dir(input_path, input_extension))
  
 print('*************************************************************')
 print('********************* Preprocessing *************************')
