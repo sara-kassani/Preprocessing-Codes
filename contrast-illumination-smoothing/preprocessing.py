@@ -1,4 +1,4 @@
-# Import util methods
+# Import util methods 
 from scipy.misc import imread, imsave
 import util.dirhandler
 from preprocessing.smoothing import median_filter_
