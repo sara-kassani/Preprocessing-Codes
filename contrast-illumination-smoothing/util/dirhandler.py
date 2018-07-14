@@ -1,4 +1,4 @@
-import os, glob        
+import os, glob
 
 """
 Implements util methods to manage directorys and files
