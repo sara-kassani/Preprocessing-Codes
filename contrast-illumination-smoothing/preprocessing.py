@@ -1,5 +1,5 @@
 # Import util methods
-from scipy.misc import imread, imsave       
+from scipy.misc import imread, imsave        
 import util.dirhandler
 from preprocessing.smoothing import median_filter_
 from preprocessing.illumination_enhancement import shading_attenuation_method
