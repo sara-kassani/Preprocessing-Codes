@@ -1,4 +1,4 @@
-from scipy.misc import imread, imsave     
+from scipy.misc import imread, imsave      
 import util.dirhandler
 from scipy import ndimage, misc
 from skimage import data
