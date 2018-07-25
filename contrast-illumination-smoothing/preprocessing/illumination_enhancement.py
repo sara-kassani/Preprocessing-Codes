@@ -1,4 +1,4 @@
-from preprocessing import shadding_attenuation as shatt     
+from preprocessing import shadding_attenuation as shatt      
 from skimage.color import rgb2hsv, hsv2rgb
 from skimage import img_as_ubyte
 from sklearn.metrics.cluster import entropy
