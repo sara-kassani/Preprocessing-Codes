@@ -1,4 +1,4 @@
-from skimage import exposure, img_as_float               
+from skimage import exposure, img_as_float                
 import numpy as np
 import random
 
