@@ -1,4 +1,4 @@
-from sklearn.metrics.cluster import entropy    
+from sklearn.metrics.cluster import entropy     
 from skimage import img_as_ubyte
 from math import log2
 import numpy as np
