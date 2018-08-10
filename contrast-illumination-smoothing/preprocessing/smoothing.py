@@ -1,4 +1,4 @@
-from scipy.ndimage.filters import median_filter   
+from scipy.ndimage.filters import median_filter    
 from math import floor, sqrt
 import numpy as np
 
